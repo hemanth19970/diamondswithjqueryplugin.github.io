@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  background:#000;
+}
+.diamond{
+  width: 100%;
+  margin: 150px;
+}
+.item{
+  width: 220px;
+  height: 220px;
+  background: #fff;
+  transform: 0.5s;
+  opacity: 0.5;
+
+}
+.item:hover{
+  opacity: 2;
+}
+.item{
+  text-align: center;
+
+}
